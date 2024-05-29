@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Mall Customer Segmentation Q", "Mall Customer Segmentation Q\Mall Customer Segmentation Q.ssmssqlproj", "{848A9552-8B1A-4002-BE63-E841AAA2DEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD10FE62-48B0-4AD9-8AE0-FAF99E869BED}.Default|Default.ActiveCfg = Default
+		{848A9552-8B1A-4002-BE63-E841AAA2DEAD}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A585D98-81EB-45FC-9F91-2EFB3884C2EB}
+	EndGlobalSection
+EndGlobal
